@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+
 import { getSalesSummary } from '../services/productService';
 
 const SalesSummary = () => {
